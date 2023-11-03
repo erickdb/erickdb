@@ -9,7 +9,9 @@
 
 <img align="right" height="180" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"  />
 
+<br>
 <p align="left">I'm Erick Darmawan<br><br>- 🔭 I’m working as programmer<br>- 📚 I'm currently learning Laravel<br>- ⚡ In my free time I playing a game</p>
+<br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/erick-darmawan-623855275/" target="_blank">
