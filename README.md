@@ -71,7 +71,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 <img width="12" />
   <img alt="Visual Studio Code"
-             src="https://cdn.iconscout.com/icon/free/png-512/free-visual-studio-code-1868941-1583105.png?f=webp&w=256"></a>
+             src="https://cdn.iconscout.com/icon/free/png-512/free-visual-studio-code-1868941-1583105.png?f=webp&w=256" height="40"></a>
 </div>
 
 ### <h3 align="left">💻 Oprating Systems</h3>
