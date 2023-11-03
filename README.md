@@ -5,7 +5,7 @@
 <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&duration=3700&pause=300&color=DE47F7&center=true&size=12&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer+%F0%9F%8C%90%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8%E2%9C%A8;Web+Designer+%F0%9F%8E%A8%F0%9F%92%A1;Software+Enginer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%F0%9F%9A%80" alt="Typing SVG"/>
 
 
-## <h3 align="left">👩‍💻  About Me</h3>
+## <h2 align="left">👩‍💻  About Me</h2>
 
 <img align="right" height="180" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"  />
 
@@ -23,9 +23,9 @@
   </a>
 </div>
 
-## <h3 align="left">🛠 Language and tools</h3>
+## <h2 align="left">🛠 My Favorite Language and tools</h2>
 
-### <h4 align="left">💻🔤 Programing Lenguages</h4>
+### <h3 align="left">💻🔤 Programing Lenguages</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -36,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" alt="php logo"  />
 </div>
 
-### <h4 align="left">🚀 Frameworks and libraries</h4>
+### <h3 align="left">🚀 Frameworks and libraries</h3>
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel logo"  />
@@ -44,13 +44,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
 </div>
 
-### <h4 align="left">🗃️ Databases</h4>
+### <h3 align="left">🗃️ Databases</h3>
 <div align="left">
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
 </div>
 
-### <h4 align="left">📦 Package manager</h4>
+### <h3 align="left">📦 Package manager</h3>
 <div align="left">
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
@@ -59,33 +59,27 @@
 </div>
 
 
-### <h4 align="left">☁ Cloud</h4>
+### <h3 align="left">☁ Cloud</h3>
 <div align="left">
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
 
-### <h4 align="left">💻🔧 Software and tools</h4>
+### <h3 align="left">💻🔧 Software and tools</h3>
 <div align="left">
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
-### <h4 align="left">💻 Oprating Systems</h4>
+### <h3 align="left">💻 Oprating Systems</h3>
 <div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## <h2 align="left">🔥   My Stats :</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=erickdb&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -93,3 +87,4 @@
 </div>
 
 ###
+##
