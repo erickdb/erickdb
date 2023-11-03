@@ -4,8 +4,9 @@
 
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+WEB+Developer;Web+Designer;Software+Engineer;UI/UX+Designer;&font=sans-serif&center=true&size=12">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&duration=3700&pause=300&color=DE47F7&center=true&size=12&random=false&width=435&lines=Full+Stack+Web+Developer+%F0%9F%8C%90%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8%E2%9C%A8;Web+Designer+%F0%9F%8E%A8%F0%9F%92%A1;Software+Enginer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%F0%9F%9A%80" alt="Typing SVG" />
-
+<div class="text-align:center;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&duration=3700&pause=300&color=DE47F7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer+%F0%9F%8C%90%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8%E2%9C%A8;Web+Designer+%F0%9F%8E%A8%F0%9F%92%A1;Software+Enginer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%F0%9F%9A%80" alt="Typing SVG"/>
+</div>
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
