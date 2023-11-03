@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left" style="color=purple">👩‍💻  About Me</h3>
 
 ###
 
