@@ -6,6 +6,10 @@
 
 ###
 
+### <span style="color:purple;">👩‍💻  About Me</span>
+
+###
+
 <h3 align="left" style="color=purple">👩‍💻  About Me</h3>
 
 ###
