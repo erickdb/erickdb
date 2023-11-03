@@ -4,19 +4,12 @@
 
 <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&duration=3700&pause=300&color=DE47F7&center=true&size=12&vCenter=true&random=false&width=435&lines=Full+Stack+Web+Developer+%F0%9F%8C%90%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8%E2%9C%A8;Web+Designer+%F0%9F%8E%A8%F0%9F%92%A1;Software+Enginer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%F0%9F%9A%80" alt="Typing SVG"/>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
+## <h3 align="left">👩‍💻  About Me</h3>
 
 <img align="right" height="180" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"  />
 
-###
-
 <p align="left">I'm Erick Darmawan<br><br>- 🔭 I’m working as programmer<br>- 📚 I'm currently learning Laravel<br>- ⚡ In my free time I playing a game</p>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/erick-darmawan-623855275/" target="_blank">
@@ -30,26 +23,62 @@
   </a>
 </div>
 
-###
+## <h3 align="left">🛠 Language and tools</h3>
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+### <h4 align="left">💻🔤 Programing Lenguages</h4>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" alt="php logo"  />
+</div>
+
+### <h4 align="left">🚀 Frameworks and libraries</h4>
+<div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
+</div>
+
+### <h4 align="left">🗃️ Databases</h4>
+<div align="left">
+<img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+</div>
+
+### <h4 align="left">📦 Package manager</h4>
+<div align="left">
+<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+</div>
+
+
+### <h4 align="left">☁ Cloud</h4>
+<div align="left">
+<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+</div>
+
+### <h4 align="left">💻🔧 Software and tools</h4>
+<div align="left">
+<img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+</div>
+
+### <h4 align="left">💻 Oprating Systems</h4>
+<div align="left">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
 ###
