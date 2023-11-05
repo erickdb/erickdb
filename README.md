@@ -97,7 +97,7 @@
 
 ## <h2>🐍 Activity : </h2>
   <div align="center">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/erickdb/erickdb/output/   github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/erickdb/erickdb/output/github-contribution-grid-snake.svg" />
   </div>
 
 ###
